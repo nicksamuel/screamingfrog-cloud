@@ -1,17 +1,37 @@
 
 # Screaming Frog in the Cloud - A Super Easy Way To Automate and Download Your Crawls
 
+## Getting Started
 
+These are some fairly basic instructions which should help you get Screaming Frog up and running in the cloud. I don't claim that this is the best, most scalable or most efficient way of running SF in the Cloud; the real goal of this little project is to demonstrate how easy it is to deploy SF in the Cloud, and to hopefully help remove any psychological barriers anyone else has to playing around with Linux/Cloud/Automation etc.
 
 Steps are as follows:
 
-1. Get a Ubuntu VPN + SSH etc.
-2. Install Screaming Frog + Dependencies (This can either be done manually or by using Fili wiese's script)
-3. Install Apache/FTRP 
-4. Create Cron Jobs
-5. Get Files
+1. Set up a Ubuntu VPS - Example uses Digital Ocean.
+2. Install Screaming Frog + Dependencies - This can either be done manually or by using Fili Wiese's script
+3. Install Apache - to browse your crawls
+4. Create Cron Jobs - Configure and Schedule your Crawls
+5. Sit back and Relax - Get your files using your web browser
+
+Please note that you don't have to use Digital Ocean or any hosting provider in particular, however it's probably sensible to stick with a Ubuntu VPS to minimise any potential compatability issues with Screaming Frog.
+
+### Step 1: Set up a Ubuntu VPS
+
+### Step 2: Install Screaming Frog
+
+### Step 3: Install Apache
+
+### Step 4: Create Cron Jobs
+
+### Step 5: Get Your Files
+
+
 
 
 ### Further Reading 
 
-To be added
+Below are some great resources which have either inspired me or directly helped me assemble this guide.
+
+
+
+
