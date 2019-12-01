@@ -1,5 +1,7 @@
 
-# Screaming Frog in the Cloud - A super easy way to automate your crawls
+# Screaming Frog in the Cloud - A Super Easy Way To Automate and Download Your Crawls
+
+* If you can read this you can probably set this up! *
 
 Steps are basically as follows:
 
