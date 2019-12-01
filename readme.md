@@ -3,7 +3,9 @@
 
 ## Getting Started
 
-These are some fairly basic instructions which should help you get Screaming Frog up and running in the cloud. I don't claim that this is the best, most scalable or most efficient way of running SF in the Cloud; the real goal of this little project is to demonstrate how easy it is to deploy SF in the Cloud, and to hopefully help remove any psychological barriers anyone else has to playing around with Linux/Cloud/Automation etc.
+These are some fairly basic instructions which should help you get Screaming Frog up and running in the cloud. 
+
+I don't claim that this is the best, most scalable or most efficient way of running SF in the Cloud; the real goal of this little guide is to demonstrate how easy it is to deploy SF in the Cloud, and to hopefully encourage other SEOs out there to try it!
 
 Steps are as follows:
 
