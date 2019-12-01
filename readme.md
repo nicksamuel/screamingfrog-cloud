@@ -1,5 +1,5 @@
 
-# Screaing Frog in the Cloud - A Guide
+# Screaming Frog in the Cloud - A super easy way to automate your crawls
 
 Steps are basically as follows:
 
