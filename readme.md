@@ -32,7 +32,7 @@ Please note that you don't have to use Digital Ocean or any hosting provider in 
 
 #### Further Reading 
 
-Below are some great resources which have either inspired me or directly helped me assemble this guide.
+Below are some great resources which have either inspired me or directly helped me assemble this guide:
 
 * https://searchengineland.com/how-to-run-screaming-frog-seo-spider-in-the-cloud-in-2019-317416
 
