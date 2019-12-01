@@ -7,7 +7,7 @@ These are some fairly basic instructions which should help you get Screaming Fro
 
 I don't claim that this is the best, most scalable or most efficient way of running SF in the Cloud; the real goal of this little guide is to demonstrate how easy it is to deploy SF in the Cloud, and to hopefully encourage other SEOs out there to try it!
 
-Steps are as follows:
+#### Steps are as follows:
 
 1. Set up a Ubuntu VPS - Example uses Digital Ocean.
 2. Install Screaming Frog + Dependencies - This can either be done manually or by using Fili Wiese's script
