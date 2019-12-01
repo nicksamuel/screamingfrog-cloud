@@ -36,6 +36,8 @@ Below are some great resources which have either inspired me or directly helped 
 
 * https://searchengineland.com/how-to-run-screaming-frog-seo-spider-in-the-cloud-in-2019-317416
 
+* https://github.com/fili/screaming-frog-on-google-compute-engine
+
 * https://www.screamingfrog.co.uk/seo-spider/user-guide/general/#commandlineoptions
 
 * https://www.digitalocean.com/community/tutorials
