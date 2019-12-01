@@ -36,6 +36,8 @@ Below are some great resources which have either inspired me or directly helped 
 
 * https://www.screamingfrog.co.uk/seo-spider/user-guide/general/#commandlineoptions
 
+* https://www.digitalocean.com/community/tutorials
+
 
 
 
